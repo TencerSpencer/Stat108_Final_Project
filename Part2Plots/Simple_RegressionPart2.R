@@ -204,13 +204,3 @@ qqline(residuals)
 
 # GO BACK TO THIS AND THE HIST B4, I THINK THIS IS AN ISSUE WITH ERROR INSTEAD.
 
-
-# PART 4:
-
-
-
-
-
-
-
-
